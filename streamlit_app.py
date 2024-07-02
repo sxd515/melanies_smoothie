@@ -27,7 +27,7 @@ if ingredients_list:
    ingredients_string = ''
    st.text(ingredients_list)
 
-  ingredients_string =''
+   ingredients_string =''
     
 for fruit_chosen in ingredients_list:
      ingredients_string += fruit_chosen + ' , '
