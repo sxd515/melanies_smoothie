@@ -27,7 +27,7 @@ ingredients_list= st.multiselect (
 )
 
 if ingredients_list: []
-   ingredients_string = ''
+    ingredients_string = ''
    #st.text(ingredients_list)
 
       
